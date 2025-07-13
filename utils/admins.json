@@ -1,0 +1,290 @@
+[
+  {
+    "_id": {
+      "$oid": "679418237e49d47d1bfbc894"
+    },
+    "status": "Active",
+    "password": "$2a$10$qtnfsdS1TZQbtaeSnr5r9umSevC/sD9XocQ.gfM635C0EZ1itxWBW",
+    "role": "Security Guard",
+    "name": {
+      "en": "Dorothy R. Brown"
+    },
+    "image": "https://i.ibb.co/d294W8Y/team-4.jpg",
+    "email": "dorothy@gmail.com",
+    "phone": "708-628-3122",
+    "joiningData": {
+      "$date": "2025-01-24T22:45:48.379Z"
+    },
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-01-24T22:45:55.831Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-24T22:45:55.831Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "679418237e49d47d1bfbc895"
+    },
+    "status": "Active",
+    "password": "$2a$10$1P.4kN83IyPZrJYztuqF0ODqzANm/4RqU0v54oX0UCc7YHxAQaAyG",
+    "role": "Cashier",
+    "name": {
+      "en": "Alice B. Porter"
+    },
+    "image": "https://i.ibb.co/m5B0hK4/team-8.jpg",
+    "email": "alice@gmail.com",
+    "phone": "708-488-9728",
+    "joiningData": {
+      "$date": "2025-01-25T00:00:00.000Z"
+    },
+    "__v": 3,
+    "createdAt": {
+      "$date": "2025-01-24T22:45:55.832Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-25T22:07:15.632Z"
+    },
+    "access_list": ["orders", "dashboard"]
+  },
+  {
+    "_id": {
+      "$oid": "679418237e49d47d1bfbc896"
+    },
+    "status": "Active",
+    "password": "$2a$10$LbB0BpfiUHffzU./AscSY.ZheqILGhsMsM9EgxWOGLgFaXzN.kebe",
+    "role": "Accountant",
+    "name": {
+      "en": "Corrie H. Cates"
+    },
+    "image": "https://i.ibb.co/SNN7JCX/team-6.jpg",
+    "email": "corrie@gmail.com",
+    "phone": "914-623-6873",
+    "joiningData": {
+      "$date": "2025-01-25T00:00:00.000Z"
+    },
+    "__v": 1,
+    "createdAt": {
+      "$date": "2025-01-24T22:45:55.832Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-25T22:05:57.975Z"
+    },
+    "access_list": [
+      "dashboard",
+      "products",
+      "categories",
+      "attributes",
+      "coupons",
+      "customers",
+      "orders",
+      "our-staff",
+      "settings",
+      "languages",
+      "currencies",
+      "store",
+      "customization",
+      "store-settings",
+      "notifications"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "679418237e49d47d1bfbc897"
+    },
+    "status": "Active",
+    "password": "$2a$10$mOqL5SJh6lFeyndCjErGVOT4kJjtgXv1z8R8Hfkq/DjeoDgN3QE2C",
+    "role": "Manager",
+    "name": {
+      "en": "Shawn E. Palmer"
+    },
+    "image": "https://i.ibb.co/GWVWYNn/team-7.jpg",
+    "email": "shawn@gmail.com",
+    "phone": "949-202-2913",
+    "joiningData": {
+      "$date": "2025-01-24T22:45:48.586Z"
+    },
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-01-24T22:45:55.832Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-24T22:45:55.832Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "679418237e49d47d1bfbc898"
+    },
+    "status": "Active",
+    "password": "$2a$10$99a5uEeU3tSxbzSB9fAJ2OSU5Cl3ez7URUHjZhI9J.SPJ0KGl2ANy",
+    "role": "CEO",
+    "name": {
+      "en": "Stacey J. Meikle"
+    },
+    "image": "https://i.ibb.co/XjwBLcK/team-2.jpg",
+    "email": "stacey@gmail.com",
+    "phone": "616-738-0407",
+    "joiningData": {
+      "$date": "2025-01-25T00:00:00.000Z"
+    },
+    "__v": 1,
+    "createdAt": {
+      "$date": "2025-01-24T22:45:55.832Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-25T21:28:36.427Z"
+    },
+    "access_list": ["products", "categories", "attributes"]
+  },
+  {
+    "_id": {
+      "$oid": "679418237e49d47d1bfbc899"
+    },
+    "status": "Active",
+    "password": "$2a$10$.W6L.2X99XAnClWNKp3syODZvkUoTq1Fnhf24JYA2dnB21nwcnnAK",
+    "role": "Admin",
+    "name": {
+      "en": "Marion V. Parker"
+    },
+    "image": "https://i.ibb.co/3zs3H7z/team-5.jpg",
+    "email": "marion@gmail.com",
+    "phone": "713-675-8813",
+    "joiningData": {
+      "$date": "2025-01-25T00:00:00.000Z"
+    },
+    "__v": 3,
+    "createdAt": {
+      "$date": "2025-01-24T22:45:55.832Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-26T08:41:15.961Z"
+    },
+    "access_list": [
+      "/",
+      "dashboard",
+      "products",
+      "categories",
+      "attributes",
+      "coupons",
+      "customers",
+      "orders",
+      "our-staff",
+      "settings",
+      "languages",
+      "currencies",
+      "store",
+      "customization",
+      "store-settings",
+      "product",
+      "order",
+      "edit-profile",
+      "customer-order"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "679418237e49d47d1bfbc89a"
+    },
+    "status": "Active",
+    "password": "$2a$10$o2FUyhWildjrwBb5Rtno1.urOFeOwCT1oEmUsPgN4qVQ6hqJyIY4.",
+    "role": "Admin",
+    "name": {
+      "en": "Admin"
+    },
+    "image": "https://i.ibb.co/WpM5yZZ/9.png",
+    "email": "admin@gmail.com",
+    "phone": "360-943-7332",
+    "joiningData": {
+      "$date": "2025-01-25T00:00:00.000Z"
+    },
+    "__v": 4,
+    "createdAt": {
+      "$date": "2025-01-24T22:45:55.832Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-25T22:37:52.051Z"
+    },
+    "access_list": [
+      "dashboard",
+      "products",
+      "categories",
+      "attributes",
+      "coupons",
+      "customers",
+      "orders",
+      "our-staff",
+      "settings",
+      "languages",
+      "currencies",
+      "store",
+      "customization",
+      "store-settings",
+      "product",
+      "order",
+      "edit-profile",
+      "customer-order"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6795350cd3f7e3000ca66135"
+    },
+    "status": "Active",
+    "password": "$2a$10$sVwtWWxo/vYcn9Ru5yT9I.evOY0Pw/T1HKNh6hL7yWIhdXhWVO56q",
+    "role": "Admin",
+    "name": {
+      "0": "M",
+      "1": "o",
+      "2": "h",
+      "3": "a",
+      "4": "m",
+      "5": "m",
+      "6": "e",
+      "7": "d",
+      "8": " ",
+      "9": "D",
+      "10": "A",
+      "11": "D",
+      "12": "D",
+      "13": "I",
+      "14": " ",
+      "15": "M",
+      "16": "O",
+      "17": "U",
+      "18": "S",
+      "19": "S",
+      "20": "A",
+      "en": "Mohammed DADDI MOUSSA"
+    },
+    "email": "mohadaddi618@gmail.com",
+    "createdAt": {
+      "$date": "2025-01-25T19:01:32.133Z"
+    },
+    "updatedAt": {
+      "$date": "2025-01-25T19:06:13.023Z"
+    },
+    "__v": 2,
+    "access_list": [
+      "dashboard",
+      "products",
+      "categories",
+      "attributes",
+      "coupons",
+      "customers",
+      "orders",
+      "our-staff",
+      "settings",
+      "languages",
+      "currencies",
+      "store",
+      "customization",
+      "store-settings"
+    ],
+    "joiningData": {
+      "$date": "2025-01-26T00:00:00.000Z"
+    },
+    "phone": "434343434"
+  }
+]

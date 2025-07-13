@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881e3"
+  },
+  "name": "Paul R. Bruns",
+  "email": "paul@gmail.com",
+  "password": "$2a$10$7YYpwV937xeGh0WWP3lnVOYTECUwa9PiNmhiCqXlP4P683RhVglEi",
+  "phone": "715-651-7487",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.800Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881f2"
+  },
+  "name": "Linda",
+  "email": "linda@gmail.com",
+  "password": "$2a$10$E5ULK63kr.iNwcA0y/EX6egd1os2x7zoy9rtA/x/6VPjTTKODds0S",
+  "phone": "801-844-8271",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881e8"
+  },
+  "name": "Aurora E. Amerson",
+  "email": "aurora@gmail.com",
+  "password": "$2a$10$xnGEwag00HXAbk8RD/Te0uGXazOQRo50Y61FWiUXyool9YjGVacRC",
+  "phone": "660-515-7629",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881e6"
+  },
+  "name": "James J. Allen",
+  "email": "james@gmail.com",
+  "password": "$2a$10$r5oqIaNktSHL2Llqr2cRLuly4GJCjnZbB33EOBcAKc9HQojozh4qi",
+  "phone": "818-356-8600",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881e9"
+  },
+  "name": "Justin J. Ruiz",
+  "email": "justin@gmail.com",
+  "password": "$2a$10$1skdLNakshhUxRGPkfxX0et7T07AOSEfsAJfYw78Yx.poiooUU76C",
+  "phone": "212-512-2888",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881e4"
+  },
+  "name": "Jon B. Krueger",
+  "email": "jon@gmail.com",
+  "password": "$2a$10$dmK5ESmZHZWLJyu34LfcR.KFTEmXczLXiSH7Jygg78yV3F8yPXmiu",
+  "phone": "360-943-7332",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881ef"
+  },
+  "name": "Gordon C. Lowery",
+  "email": "gordon@gmail.com",
+  "password": "$2a$10$KJJVxR7CPsocxb6XWDQEleYTKL9aBXiwHnQjNvqmQ98oBdJaoBgLi",
+  "phone": "858-243-0632",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881ee"
+  },
+  "name": "Lester J. Massey",
+  "email": "lester@gmail.com",
+  "password": "$2a$10$1VLaFdoQPnk2W3IO0GDBO.eCzsUC9rdBgh1ixTNURmDQgBv.P43Qy",
+  "phone": "715-657-9865",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881eb"
+  },
+  "name": "Kathryn J. Brown",
+  "email": "kathryn@gmail.com",
+  "password": "$2a$10$YTaHgQh4pSgJVI3hWESOi.xcfuBJ47EAycQAij.KfI6OHGmJa3Yc2",
+  "phone": "707-275-4858",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881f1"
+  },
+  "name": "Eddie N. Garcia",
+  "email": "eddie@gmail.com",
+  "password": "$2a$10$PJ46WQ8FI3sj4n4.TuhsmOt0g/n8.8wIu1t5BRsReu3o0t94Jhyta",
+  "phone": "917-313-4731",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881e7"
+  },
+  "name": "Christopher M. Fox",
+  "email": "christopher@gmail.com",
+  "password": "$2a$10$4VMIJ6Q5wvMIWTjNlmtVYeyBuRfL3kt6ZP3pQVuhXPp2JeaOLBUd6",
+  "phone": "812-886-0550",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881ed"
+  },
+  "name": "Samuel",
+  "email": "samuel@gmail.com",
+  "password": "$2a$10$9xU011si3SR31jEQbzSB8uu9Jv2wIn8A/neiL4NVihrUh0PLmoD8u",
+  "phone": "307-202-3590",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881f6"
+  },
+  "name": "Richard E. Romero",
+  "email": "richard@gmail.com",
+  "password": "$2a$10$x.PrvccssdxrdGwqSSgG5u3ZbMZTw9MF8yWIgnTR7UWOxnM0KyLL6",
+  "phone": "828-896-3442",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881ea"
+  },
+  "name": "Josephine M. Peel",
+  "email": "josephine@gmail.com",
+  "password": "$2a$10$vY1m1jOCPwjEaT4L1LiuCuvv7JSzPrbQ1RJoj1BlhP6lKc1/u7rZS",
+  "phone": "734-256-1159",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881ec"
+  },
+  "name": "Henry M. Koch",
+  "email": "henry@gmail.com",
+  "password": "$2a$10$xk5mNErpuKqhWA5W.xf28u65cmmgkCpaSNvNlTxiAqHImsxN2AVAS",
+  "phone": "912-587-2159",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881f0"
+  },
+  "name": "Williams",
+  "email": "williams@gmail.com",
+  "password": "$2a$10$ND9QZuducp3uCFv5sxX8Y.LstIp3xNtBDLZMjNWwJZ5dn.0j7mz7.",
+  "phone": "714-776-3942",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881f3"
+  },
+  "name": "Danielle R. Martin",
+  "email": "danielle@gmail.com",
+  "password": "$2a$10$Ni/v/Kfm2K7VafuJfK.O8.A1yOTWlwh0aXomeSNCesAq077Y/slsW",
+  "phone": "831-539-6621",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881e5"
+  },
+  "name": "Hilary W. Becker",
+  "email": "hilary@gmail.com",
+  "password": "$2a$10$OjD2EU5VuvyxJa.UfHXFk.zjL090tyNhrbHcwYo3s7rcnyYj6gq9y",
+  "phone": "802-516-2269",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881f4"
+  },
+  "name": "Thomas",
+  "email": "thomas@gmail.com",
+  "password": "$2a$10$jU8QqVXtq2jhcPcCXxaOP.GcIrhzKJtOm4QnYSJfr3MejoXoGoFRS",
+  "phone": "818-363-8091",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  }
+},{
+  "_id": {
+    "$oid": "6439713c1d8869133e8881f5"
+  },
+  "name": "Brain H. Landry",
+  "email": "brain@gmail.com",
+  "password": "$2a$10$bWmMyaIRpGp.ETy79a0wDOmqsnTfBtpo2OAf8HrZA.W.CxRvxaeiO",
+  "phone": "714-200-5488",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:29:00.803Z"
+  }
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "643970c6e58a401b6c62c5a2"
+  },
+  "status": "show",
+  "name": "Dollar",
+  "symbol": "$",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:27:02.393Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:27:02.393Z"
+  }
+},{
+  "_id": {
+    "$oid": "643970c6e58a401b6c62c5a3"
+  },
+  "status": "show",
+  "name": "Pound",
+  "symbol": "£",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:27:02.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:27:02.394Z"
+  }
+},{
+  "_id": {
+    "$oid": "643970c6e58a401b6c62c5a1"
+  },
+  "status": "show",
+  "name": "Euro",
+  "symbol": "€",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-04-14T15:27:02.393Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T15:27:02.393Z"
+  }
+}]
