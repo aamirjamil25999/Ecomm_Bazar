@@ -2,7 +2,7 @@
   "name": "bazar-backend",
   "version": "0.1.0",
   "description": "this is the server of dashter built with node, express, mongoose schema validation and use mongodb as a database",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
     "dev": "nodemon api/index.js",
     "start": "node api/index.js",
