@@ -916,10 +916,10 @@ const setting = [
       facebook_secret: "",
       nextauth_secret: "",
       next_api_base_url: "http://localhost:5055/api",
-      stripe_key:
-        "pk_test_51PusFzLS2pVM8hd8U91RQOthxJKvwWCJxpmSM16xMttqMunxuvLifzEMhQnxEpr5yyBJWPXCqKtFtsatmEtuOTIv00MaPS2TpA",
-      stripe_secret:
-        "sk_test_51PusFzLS2pVM8hd8p1OUp7oAbMsHy5xtQ8hDJ426DOUbGWCO7kGC6NCfZYtDFQj87rrEali0Bd5YKK502c1aKffu004s0jelJI",
+      // stripe_key:
+      //   "pk_test_51PusFzLS2pVM8hd8U91RQOthxJKvwWCJxpmSM16xMttqMunxuvLifzEMhQnxEpr5yyBJWPXCqKtFtsatmEtuOTIv00MaPS2TpA",
+      // stripe_secret:
+      //   "sk_test_51PusFzLS2pVM8hd8p1OUp7oAbMsHy5xtQ8hDJ426DOUbGWCO7kGC6NCfZYtDFQj87rrEali0Bd5YKK502c1aKffu004s0jelJI",
       stripe_status: true,
       razorpay_status: false,
       razorpay_id: "",
